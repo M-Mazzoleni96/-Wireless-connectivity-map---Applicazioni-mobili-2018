@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppLAM</string>
+    <string name="title_activity_maps">Map</string>
+
+        <string-array name="spinner">
+            <item>WIFI</item>
+            <item>3G</item>
+            <item>4G</item>
+        </string-array>
+    </resources>
